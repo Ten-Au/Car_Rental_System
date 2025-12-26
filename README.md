@@ -3,7 +3,7 @@
 ## Project Overview
 This project is a lightweight, pure Java implementation of a Car Rental System designed to manage vehicle reservations. It follows a service-oriented architecture to handle core business logic, including inventory management, reservation validation, and collision detection (preventing double-bookings).
 
-The system is built using **Java 17** and **Maven**, utilizing **JUnit 5** for a comprehensive test suite.
+The system is built using **Java 21** and **Maven**, utilizing **JUnit 5** for a comprehensive test suite.
 
 ## Key Features
 * **Inventory Management:** Supports multiple car types (Sedan, SUV, Van).
